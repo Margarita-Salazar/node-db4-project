@@ -1,9 +1,9 @@
 const ingredients = [
-    {ingredient_name: 'Potato'},
-    {ingredient_name: 'Fish'},
+    {ingredient_name: 'Green Egg'},
     {ingredient_name: 'Oil'},
     {ingredient_name: 'Salt'},
-    {ingredient_name: 'Sausage'},
+    {ingredient_name: 'Geen Ham'},
+    {ingredient_name: 'Sam-I-am'},
 ]
 
 exports.seed = function(knex) {

@@ -1,6 +1,5 @@
 const recipes = [
-    { recipe_name: 'Bangers and Mash' },
-    { recipe_name: 'Fish and Chips' },
+    { recipe_name: 'Green Eggs and Ham' },
   ]
   
 exports.seed = function(knex) {
