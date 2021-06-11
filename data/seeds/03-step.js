@@ -22,7 +22,7 @@ const steps = [
     {   
         recipe_id: 1, 
         step_number: 1, 
-        step_instructions:'Feed it to the Stranger, Sam-I-Am'
+        step_instructions:'Sam-I-am feeds it to the Stranger'
     },
 ]
 
