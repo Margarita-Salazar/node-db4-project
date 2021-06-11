@@ -22,7 +22,7 @@ exports.up = function(knex) {
                 .onDelete('CASCADE') 
         })
         .createTable('steps_ingredients', table=>{
-            table.integer('step_ingredient_id')
+            table.increments('step_ingredient_id')
             table.integer('step_id')
                 .unsigned()
                 .notNullable()
